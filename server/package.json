@@ -2,8 +2,8 @@
   "name": "kittenlog-server",
   "version": "1.0.0",
   "description": "Server side code for app Kittenlog. Using node, express and postgreslq.",
-  "main": "index.js",
-  "scripts": {
+  "main": "src/index.ts",
+   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
