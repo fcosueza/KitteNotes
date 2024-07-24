@@ -8,7 +8,7 @@
     "tsc": "tsc"
   },
   "keywords": [],
-  "author": "",
+  "author": "Fco Sueza",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
